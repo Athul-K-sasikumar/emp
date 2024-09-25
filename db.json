@@ -1,0 +1,29 @@
+{
+  "employees": [
+    {
+      "id": "c612",
+      "userName": "Sajai",
+      "email": "qqq@gmail.com",
+      "status": "Active"
+    },
+    {
+      "userName": "a",
+      "email": "minnalgokul12@gmail.com",
+      "status": "Inactive",
+      "id": "VZD2fgR"
+    },
+    {
+      "userName": "dd",
+      "email": "minnalgokul12@gmail.com",
+      "status": "Inactive",
+      "id": "oaEa761"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "admin",
+      "password": "admin123"
+    }
+  ]
+}
